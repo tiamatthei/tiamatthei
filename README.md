@@ -1,4 +1,4 @@
-# Hi! I'm Jorge Bejarano 🐬
+# Hi! I'm Jorge
 
 **CTO & Co-Founder at Servimatch** | AI Enthusiast | Technical Mentor
 
