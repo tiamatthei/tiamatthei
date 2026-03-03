@@ -24,4 +24,4 @@ Si buscas expertise en IA o necesitas ayuda con tu próximo proyecto, ¡hablemos
 
 ---
 
-*“La IA no reemplaza a los humanos; potencia lo que hacen mejor.”*
+*“Mi papi me decía cuando chico, No me traigas problemas, traeme la solución”*
