@@ -1,31 +1,31 @@
-# ¡Hola! Soy Jorge Bejarano 🐬
+# Hi! I'm Jorge Bejarano 🐬
 
-**CTO & Co-Founder at Servimatch** | AI Enthusiast | Mentor Técnico
+**CTO & Co-Founder at Servimatch** | AI Enthusiast | Technical Mentor
 
-Chileno, construyendo el futuro con IA. Fundé Servimatch para revolucionar la gestión de ventas con agentes autónomos impulsados por inteligencia artificial. Soy un apasionado de la tecnología que resuelve problemas reales, desde apps móviles hasta sistemas backend escalables.
+Chilean, building the future with AI. I founded Servimatch to revolutionize sales management with AI-powered autonomous agents. I'm passionate about technology that solves real problems, from mobile apps to scalable backend systems.
 
-## 🚀 Lo que hago
-- **Liderazgo Técnico**: Dirigiendo equipos de desarrollo e integrando IA en productos.
-- **IA & Machine Learning**: Implementando soluciones de IA para automatización y análisis predictivo.
-- **Cloud & DevOps**: Gestionando infraestructuras en AWS, con CI/CD y contenedores.
-- **Mentoría**: Capacitando a equipos y emprendedores en innovación tecnológica.
-- **Proyectos Empresariales**: Desarrollando soluciones custom para startups y empresas en Chile y Latinoamérica.
+## 🚀 What I Do
+- **Technical Leadership**: Leading development teams and integrating AI into products.
+- **AI & Machine Learning**: Implementing AI solutions for automation and predictive analytics.
+- **Cloud & DevOps**: Managing AWS infrastructures, with CI/CD and containers.
+- **Mentorship**: Training teams and entrepreneurs in technological innovation.
+- **Business Projects**: Developing custom solutions for startups and companies in Chile and Latin America.
 
-## 📂 Proyectos Destacados
-- **[superpowerai-crashcourse](https://github.com/tiamatthei/superpowerai-crashcourse)**: Curso completo de IA con notebooks, APIs y apps prácticas. ¡Open-source y listo para usar!
-- **Servimatch**: Plataforma de CRM con IA para ventas inteligentes (privado, pero próximamente open-source).
-- **Otros proyectos**: He liderado +40 proyectos privados para clientes, desde apps de e-commerce hasta sistemas de gestión industrial.
+## 📂 Featured Projects
+- **[superpowerai-crashcourse](https://github.com/tiamatthei/superpowerai-crashcourse)**: Complete AI course with notebooks, APIs, and practical apps. Open-source and ready to use!
+- **Servimatch**: AI-powered CRM platform for smart sales (private, but soon open-source).
+- **Other projects**: I've led +40 private projects for clients, from e-commerce apps to industrial management systems.
 
-## 🌐 Conecta conmigo
+## 🌐 Connect with Me
 - **LinkedIn**: [Jorge Bejarano](https://www.linkedin.com/in/jorge-bejarano-8785b5248/)
 - **Email**: jorge.bejaranovel@gmail.com
 
-## 💼 Experiencia
-- **CTO & Co-Founder, Servimatch** (2024 - Presente): Liderando desarrollo de CRM con IA para ventas.
-- **Desarrollador en Beld** (Empresa de muebles): Contribuciones en e-commerce y dashboards.
+## 💼 Experience
+- **CTO & Co-Founder, Servimatch** (2024 - Present): Leading CRM development with AI for sales.
+- **Developer at Beld** (Furniture company): Contributions to e-commerce and dashboards.
 
-Si buscas expertise en IA o necesitas ayuda con tu próximo proyecto, ¡hablemos! Siempre abierto a colaboraciones y charlas sobre tech. 🇨🇱
+If you're looking for AI expertise or need help with your next project, let's talk! Always open to collaborations and tech chats. 🇨🇱
 
 ---
 
-*“Mi papi me decía cuando chico, No me traigas problemas, traeme la solución”*
+*“My dad used to tell me when I was a kid, Don't bring me problems, bring me the solution”*
