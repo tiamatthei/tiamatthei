@@ -17,8 +17,12 @@ Chileno, construyendo el futuro con IA. Fundé Servimatch para revolucionar la g
 - **Otros proyectos**: He liderado +40 proyectos privados para clientes, desde apps de e-commerce hasta sistemas de gestión industrial.
 
 ## 🌐 Conecta conmigo
-- **LinkedIn**: [Jorge Bejarano](https://linkedin.com/in/jorgebejarano) (busca mi perfil)
+- **LinkedIn**: [Jorge Bejarano](https://www.linkedin.com/in/jorge-bejarano-8785b5248/)
 - **Email**: jorge.bejaranovel@gmail.com
+
+## 💼 Experiencia
+- **CTO & Co-Founder, Servimatch** (2024 - Presente): Liderando desarrollo de CRM con IA para ventas.
+- **Desarrollador en Beld** (Empresa de muebles): Contribuciones en e-commerce y dashboards.
 
 Si buscas expertise en IA o necesitas ayuda con tu próximo proyecto, ¡hablemos! Siempre abierto a colaboraciones y charlas sobre tech. 🇨🇱
 
